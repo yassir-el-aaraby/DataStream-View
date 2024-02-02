@@ -1,0 +1,3 @@
+implement data frames instead of bare json 
+show new entries in the beginning of the list
+load only new entries without deleting all the tree view
